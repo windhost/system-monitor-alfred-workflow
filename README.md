@@ -7,7 +7,7 @@
 
 
 
-### [💾 Download](https://github.com/singhprd/system-monitor-alfred-workflow/releases/download/1/System.Monitor.alfredworkflow) 
+### [💾 Download](https://github.com/windhost/system-monitor-alfred-workflow/releases/download/v2.4/System.Monitor.alfredworkflow) 
 
 - 1) List/Kill Top Processes by Memory/CPU/IO Usage
 
